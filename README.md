@@ -4,7 +4,15 @@
 
 ## HEADING 2
 
-`code writtne here:'
+```javascript
+code written here
+
+class A () {}
+
+```
+
+
+
 
 My first Repository
 
